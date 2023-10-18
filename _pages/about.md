@@ -10,7 +10,7 @@ redirect_from:
 
 I am Xin Wang, a fifth-year Ph.D. student at Tsinghua University. I am fortunately advised by [Prof. Ling Feng](https://www.cs.tsinghua.edu.cn/info/1111/3489.htm). Previously, I received my B.E. in Computer Science and Technology from Northwestern Polytechnical University in 2018.
 
-My research interest lies in data mining (DM) and natural language processing (NLP) – with special focus on：
+My research interest lies in Data Mining (DM) and Natural Language Processing (NLP) – with special focus on：
 - Social Media Analysis
 - Affective Computing
 - Knowledge Graph
