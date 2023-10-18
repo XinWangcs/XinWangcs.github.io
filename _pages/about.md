@@ -10,6 +10,25 @@ redirect_from:
 
 I am Xin Wang, a fifth-year Ph.D. student at Tsinghua University. I am fortunately advised by [Prof. Ling Feng](https://www.cs.tsinghua.edu.cn/info/1111/3489.htm). Previously, I received my B.E. in Computer Science and Technology from Northwestern Polytechnical University in 2018.
 
+Selected Publications
+---
+- **Contrastive Learning of Stress-specific Word Embedding for Social Media based Stress Detection.**<br>
+**Xin Wang**, Huijun Zhang, Lei Cao, Ling Feng, Qi Li, Ningyun Li, Ling Feng.<br>
+Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD2023**)<br>
+
+- **A meta-learning based stress category detection framework on social media.**<br>
+**Xin Wang**, Lei Cao, Huijun Zhang, Ling Feng, Yang Ding, Ningyun Li.<br>
+Proceedings of the ACM Web Conference 2022 (**WWW2022**)<br>
+
+- **Leverage Social Media for Personalized Stress Detection.**<br>
+**Xin Wang**, Huijun Zhang, Lei Cao, Ling Feng.<br>
+Proceedings of the 28th ACM international conference on multimedia. (**MM2020**)<br>
+
+Academic Services
+---
+- Regular Reviewer or Program Committee Member: NIPS23、ICLR24、ACL21,23、 EMNLP21,22,23、 NAACL21、EACL23、AACL20,22,23、ACL Rolling Review
+- External Reviewer: WWW22
+
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
