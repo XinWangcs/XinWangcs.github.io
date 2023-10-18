@@ -73,9 +73,3 @@ Proceedings of the 28th ACM international conference on multimedia. (**MM2020**)
 Lei Cao, Huijun Zhang, Ling Feng, Zihan Wei, **Xin Wang**, Ningyun Li, Xiaohao He.<br>
 Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (**EMNLP2019**)<br>
 [[pdf](https://arxiv.org/pdf/1910.12038.pdf)][data](https://github.com/bryant03/Sina-Weibo-Dataset)]
-
-**2019**
-- **Latent suicide risk detection on microblog via suicide-oriented word embeddings and layered attention.**<br>
-Lei Cao, Huijun Zhang, Ling Feng, Zihan Wei, **Xin wang**, Ningyun Li, Xiaohao He.<br>
-Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (**EMNLP2019**)<br>
-[[pdf](https://arxiv.org/pdf/1910.12038.pdf)][data](https://github.com/bryant03/Sina-Weibo-Dataset)]
