@@ -18,6 +18,14 @@ My research interest lies in Data Mining (DM) and Natural Language Processing (N
 My recent interest focus on:
 - Human-Centered LLM 
 
+News
+---
+[2023-05] One paper is accepted by KDD2023! Thanks to all co-authors!
+[2023-05] One paper is accepted by JBHI2023! Thanks to all co-authors!
+[2023-08] One paper is accepted by CIKM2022! Thanks to all co-authors!
+[2022-06] One paper is accepted by TIFS2022! Thanks to all co-authors!
+[2022-01] One paper is accepted by WWW2022! Thanks to all co-authors!
+
 Selected Publications
 ---
 - Xin Wang, Huijun Zhang, Lei Cao, Ling Feng, Qi Li, Ningyun Li, Ling Feng. [Contrastive Learning of Stress-specific Word Embedding for Social Media based Stress Detection](https://dl.acm.org/doi/pdf/10.1145/3485447.3512013). Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD2023)
