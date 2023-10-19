@@ -20,11 +20,11 @@ My recent interest focus on:
 
 News
 ---
-[2023-05] One paper is accepted by KDD2023! Thanks to all co-authors!
-[2023-05] One paper is accepted by JBHI2023! Thanks to all co-authors!
-[2023-08] One paper is accepted by CIKM2022! Thanks to all co-authors!
-[2022-06] One paper is accepted by TIFS2022! Thanks to all co-authors!
-[2022-01] One paper is accepted by WWW2022! Thanks to all co-authors!
+- [2023-05] One paper is accepted by KDD2023! Thanks to all co-authors!
+- [2023-05] One paper is accepted by JBHI2023! Thanks to all co-authors!
+- [2023-08] One paper is accepted by CIKM2022! Thanks to all co-authors!
+- [2022-06] One paper is accepted by TIFS2022! Thanks to all co-authors!
+- [2022-01] One paper is accepted by WWW2022! Thanks to all co-authors!
 
 Selected Publications
 ---
