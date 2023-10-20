@@ -15,7 +15,8 @@ My research interest lies in Data Mining (DM) and Natural Language Processing (N
 - Affective Computing
 - Knowledge Graph
 
-My recent interest focus on AI4Society, especially through LLM. 
+My recent interest focus on 
+- AI4Society, especially through LLM 
 
 News
 ---
