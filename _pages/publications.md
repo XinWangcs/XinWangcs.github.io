@@ -33,7 +33,7 @@ IEEE Journal of Biomedical and Health Informatics (**JBHI 2023**)<br>
 **2022**
 - **A meta-learning based stress category detection framework on social media.**<br>
 **Xin Wang**, Lei Cao, Huijun Zhang, Ling Feng, Yang Ding, Ningyun Li.<br>
-Proceedings of the ACM Web Conference 2022 (**WWW2022**)<br>
+Proceedings of the ACM Web Conference 2022 (**Oral Presentation on WWW2022**)<br>
 [[pdf](https://dl.acm.org/doi/pdf/10.1145/3394171.3413596)][[data](https://github.com/xin-wang18/Categroy-Dataset)]
 
 - **Fine-Grained Question-Level Deception Detection via Graph-Based Learning and Cross-Modal Fusion.**<br>
@@ -71,5 +71,5 @@ Proceedings of the 28th ACM international conference on multimedia. (**MM2020**)
 **2019**
 - **Latent suicide risk detection on microblog via suicide-oriented word embeddings and layered attention.**<br>
 Lei Cao, Huijun Zhang, Ling Feng, Zihan Wei, **Xin Wang**, Ningyun Li, Xiaohao He.<br>
-Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (**EMNLP2019**)<br>
+Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (**Oral on EMNLP2019**)<br>
 [[pdf](https://arxiv.org/pdf/1910.12038.pdf)][data](https://github.com/bryant03/Sina-Weibo-Dataset)]
