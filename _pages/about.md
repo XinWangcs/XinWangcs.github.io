@@ -11,12 +11,12 @@ redirect_from:
 I am Xin Wang, a Ph.D. from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). I am fortunately advised by [Prof. Ling Feng](https://www.cs.tsinghua.edu.cn/info/1111/3489.htm). Previously, I received my bachelor's degree in [Computer Science and Technology](https://jsj.nwpu.edu.cn/) from [Northwestern Polytechnical University](https://www.nwpu.edu.cn/) in 2018.
 
 My research interest lies in Data Mining (DM) and Natural Language Processing (NLP) – with special focus on：
-- Social Media Analysis
 - Affective Computing
 - Knowledge Graph
 
 My recent interest focus on: 
-- AI4Society, especially through LLM 
+- AI4Society
+- Safety or Fairness of LLM 
 
 News
 ---
