@@ -15,8 +15,7 @@ My research interest lies in Data Mining (DM) and Natural Language Processing (N
 - Knowledge Graph
 
 My recent interest focus on: 
-- AI4Society
-- Safety or Fairness of LLM 
+- AI4Society and LLM
 
 News
 ---
