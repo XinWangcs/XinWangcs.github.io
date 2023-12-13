@@ -27,7 +27,7 @@ News
 
 Selected Publications
 ---
-- **Xin Wang**, Huijun Zhang, Lei Cao, Ling Feng, Qi Li, Ningyun Li, Ling Feng. [Contrastive Learning of Stress-specific Word Embedding for Social Media based Stress Detection](https://dl.acm.org/doi/pdf/10.1145/3485447.3512013). Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD2023)
+- **Xin Wang**, Huijun Zhang, Lei Cao, Ling Feng, Qi Li, Ningyun Li, Ling Feng. [Contrastive Learning of Stress-specific Word Embedding for Social Media based Stress Detection](https://dl.acm.org/doi/pdf/10.1145/3580305.3599795). Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD2023)
 
 - **Xin Wang**, Lei Cao, Huijun Zhang, Ling Feng, Yang Ding, Ningyun Li. [A meta-learning based stress category detection framework on social media](https://dl.acm.org/doi/pdf/10.1145/3485447.3512013). Proceedings of the ACM Web Conference 2022 (Oral Presentation on WWW2022)
 
