@@ -18,8 +18,8 @@ main:
   # - title: "CV"
   #   url: /cv/
   
-  - title: "CV"
-    url: /files/XinWangCV.pdf
+  # - title: "CV"
+  #   url: /files/XinWangCV.pdf
     
   # - title: "Guide"
   #   url: /markdown/
