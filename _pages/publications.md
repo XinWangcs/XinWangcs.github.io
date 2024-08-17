@@ -26,6 +26,7 @@ You can also find my papers on my [Google Scholar](https://scholar.google.com/ci
 - **Heuristic-Driven Type-Specific embedding in Parallel Spaces for Enhancing Knowledge Graph Reasoning.**<br>
 Yao Liu, Yongfei Zhang, **Xin Wang**, Shan Yang.<br>
 Proceedings of 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP2024**)<br>
+[[pdf](https://ieeexplore.ieee.org/abstract/document/10445955)]
 
 **2023**
 - **Contrastive Learning of Stress-specific Word Embedding for Social Media based Stress Detection.**<br>
