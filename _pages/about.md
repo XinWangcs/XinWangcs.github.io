@@ -8,17 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am Xin Wang, a Ph.D. from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). I am fortunately advised by [Prof. Ling Feng](https://www.cs.tsinghua.edu.cn/info/1111/3489.htm). Previously, I received my bachelor's degree in [Computer Science and Technology](https://jsj.nwpu.edu.cn/) from [Northwestern Polytechnical University](https://www.nwpu.edu.cn/) in 2018.
+I am Xin Wang, a new postdoctoral researcher at [University of Oxford](https://www.ox.ac.uk/) from August 2024. I am fortunately to begin a research journey with [Pro. David Clifton](https://eng.ox.ac.uk/people/david-clifton/).
+Previously, I got my Doctor Degree from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). I was fortunately advised by [Prof. Ling Feng](https://www.cs.tsinghua.edu.cn/info/1111/3489.htm). I received my bachelor's degree in [Computer Science and Technology](https://jsj.nwpu.edu.cn/) from [Northwestern Polytechnical University](https://www.nwpu.edu.cn/) in 2018.
 
 My research interest lies in Data Mining (DM) and Natural Language Processing (NLP) – with special focus on：
-- Computational Social Science / Mental Health
+- Computational Mental Health
 - Knowledge Graph
 
 My recent interest focus on: 
-- AI4Society and LLM
+- AI4Health and LLMs
 
 News
 ---
+- [2024-07] One paper is accepted by UBICOM2024! Thanks to all co-authors!
+- [2024-07] One paper is accepted by MM2024! Thanks to all co-authors!
+- [2024-05] One paper is accepted by PKDD2024! Thanks to all co-authors!
+- [2023-12] One paper is accepted by ICASSP2024! Thanks to all co-authors!
 - [2023-05] One paper is accepted by KDD2023! Thanks to all co-authors!
 - [2023-05] One paper is accepted by JBHI2023! Thanks to all co-authors!
 - [2023-08] One paper is accepted by CIKM2022! Thanks to all co-authors!
@@ -35,7 +40,7 @@ Selected Publications
 
 Academic Services
 ---
-- Conference Reviewer or Program Committee Member: NIPS23、ICLR24、ACL21,23、WWW22,24、KDD24、MM24、EMNLP21,22,23、 NAACL21,24、EACL23、AACL20,22,23、ACL Rolling Review
+- Conference Reviewer or Program Committee Member: NIPS23,24、ICLR24、ACL21,23、WWW22,24、KDD24、MM24、EMNLP21,22,23、 NAACL21,24、EACL23、AACL20,22,23、ACL Rolling Review
 - Journal Reviewer: TKDE, Health Information Science and System
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
