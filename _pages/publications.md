@@ -20,6 +20,9 @@ You can also find my papers on my [Google Scholar](https://scholar.google.com/ci
 
 ---
 **2024**
+- **UBICOM2024 to coming**
+- **MM2024 to coming**
+- **ECML/PKDD2024 to coming**
 - **Heuristic-Driven Type-Specific embedding in Parallel Spaces for Enhancing Knowledge Graph Reasoning.**<br>
 Yao Liu, Yongfei Zhang, **Xin Wang**, Shan Yang.<br>
 Proceedings of 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP2024**)<br>
