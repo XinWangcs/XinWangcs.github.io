@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Xin Wang, a new postdoctoral researcher at [University of Oxford](https://www.ox.ac.uk/) from August 2024. I am fortunately to begin a research journey with [Pro. David Clifton](https://eng.ox.ac.uk/people/david-clifton/).
+I am Xin Wang, a new postdoctoral researcher at [University of Oxford](https://www.ox.ac.uk/) from August 2024. I am fortunately to begin a research journey with [Prof. David Clifton](https://eng.ox.ac.uk/people/david-clifton/).
 Previously, I got my Doctor Degree from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). I was fortunately advised by [Prof. Ling Feng](https://www.cs.tsinghua.edu.cn/info/1111/3489.htm). I received my bachelor's degree in [Computer Science and Technology](https://jsj.nwpu.edu.cn/) from [Northwestern Polytechnical University](https://www.nwpu.edu.cn/) in 2018.
 
 My research interest lies in Data Mining (DM) and Natural Language Processing (NLP) – with special focus on：
