@@ -20,7 +20,7 @@ You can also find my papers on my [Google Scholar](https://scholar.google.com/ci
 
 ---
 **2024**
-- One **UBICOM2024** paperto coming
+- One **UBICOM2024** paper to coming
 - One **MM2024** paper to coming
 - One **ECML/PKDD2024** paper to coming
 - **Heuristic-Driven Type-Specific embedding in Parallel Spaces for Enhancing Knowledge Graph Reasoning.**<br>
