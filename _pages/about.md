@@ -23,7 +23,7 @@ News
 ---
 - [2024-07] One paper is accepted by UBICOM2024! Thanks to all co-authors!
 - [2024-07] One paper is accepted by MM2024! Thanks to all co-authors!
-- [2024-05] One paper is accepted by PKDD2024! Thanks to all co-authors!
+- [2024-05] One paper is accepted by ECML/PKDD2024! Thanks to all co-authors!
 - [2023-12] One paper is accepted by ICASSP2024! Thanks to all co-authors!
 - [2023-05] One paper is accepted by KDD2023! Thanks to all co-authors!
 - [2023-05] One paper is accepted by JBHI2023! Thanks to all co-authors!
