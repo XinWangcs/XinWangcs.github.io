@@ -16,7 +16,8 @@ My research interest lies in Data Mining (DM) and Natural Language Processing (N
 - Knowledge Graph
 
 My recent interest focus on: 
-- AI4Health and LLMs
+- AI4Health
+- LMMs and AI agents
 
 News
 ---
