@@ -21,15 +21,15 @@ My recent interest focus on:
 
 News
 ---
-- [2024-07] One paper is accepted by UBICOMP2024! Thanks to all co-authors!
-- [2024-07] One paper is accepted by MM2024! Thanks to all co-authors!
-- [2024-05] One paper is accepted by ECML/PKDD2024! Thanks to all co-authors!
-- [2023-12] One paper is accepted by ICASSP2024! Thanks to all co-authors!
-- [2023-05] One paper is accepted by KDD2023! Thanks to all co-authors!
-- [2023-05] One paper is accepted by JBHI2023! Thanks to all co-authors!
-- [2023-08] One paper is accepted by CIKM2022! Thanks to all co-authors!
-- [2022-06] One paper is accepted by TIFS2022! Thanks to all co-authors!
-- [2022-01] One paper is accepted by WWW2022! Thanks to all co-authors!
+- [2025-01] One first author paper is accepted by WWW2025. One paper is accepted by IEEE TMM.
+- [2024-12] One paper is accepted by ICASSP2024.
+- [2024-07] One corresponding author paper is accepted by MM2024. One paper is accepted by UBICOMP2024.
+- [2024-05] One paper is accepted by ECML/PKDD2024.
+- [2023-12] One paper is accepted by ICASSP2024.
+- [2023-05] One first author paper is accepted by KDD2023. One paper is accepted by IEEE JBHI.
+- [2023-08] One paper is accepted by CIKM2022.
+- [2022-06] One paper is accepted by IEEE TIFS.
+- [2022-01] One first author paper is accepted by WWW2022.
 
 Selected Publications
 ---
