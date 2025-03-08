@@ -23,7 +23,7 @@ You can also find my papers on my [Google Scholar](https://scholar.google.com/ci
 - **Leveraging Social Media for Real-Time Interpretable and Amendable Suicide Risk Prediction With Human-in-The-Loop.**<br>
 Yi Dai, Jinlei Liu, Lei Cao, Yuanyuan Xue, **Xin Wang**, Yang Ding, Junrui Tian, Ling Feng.<br>
 Proceedings of the 32nd ACM International Conference on Multimedia (**TAC2024**)<br>
-[[pdf](https://ieeexplore.ieee.org/abstract/document/10530138)]
+[[pdf](https://ieeexplore.ieee.org/abstract/document/10748413)]
 - **Integrating Content-Semantics-World Knowledge to Detect Stress from Videos.**<br>
 Yang Ding, Yi Dai, **Xin Wang\***, Ling Feng, Lei Cao, Huijun Zhang.<br>
 Proceedings of the 32nd ACM International Conference on Multimedia (**MM2024**)<br>
