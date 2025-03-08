@@ -28,7 +28,6 @@ News
 - [2024-05] One paper is accepted by ECML PKDD2024.
 - [2023-12] One paper is accepted by ICASSP2024.
 - [2023-05] One first author paper is accepted by KDD2023. One paper is accepted by IEEE JBHI.
-- [2023-08] One paper is accepted by CIKM2022.
 
 Selected Publications
 ---
