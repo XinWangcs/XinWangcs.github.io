@@ -45,7 +45,7 @@ Proceedings of the ACM Web Conference 2025 (WWW2025, <font color="#d76666">Oral 
       <td style="width:10px"></td>
       <td valign="middle">
         <div>
-            <a href="https://ora.ox.ac.uk/objects/uuid:b3c2686c-b6c7-4cce-bd7f-3104811d9c12" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://ora.ox.ac.uk/objects/uuid:b3c2686c-b6c7-4cce-bd7f-3104811d9c12" >
               MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation
             </a>
           <br>
