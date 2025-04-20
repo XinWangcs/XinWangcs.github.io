@@ -36,6 +36,12 @@ Selected Publications
 **Xin Wang**, Ling Feng, Huijun Zhang, Lei Cao, Kaisheng Zeng, Qi Li, Yang Ding, Yi Dai, David A Clifton<br>
 Proceedings of the ACM Web Conference 2025 (WWW2025, <font color="#d76666">Oral Presentation</font>)
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 <table style="border: none!important;">
   <tbody>
     <tr>
