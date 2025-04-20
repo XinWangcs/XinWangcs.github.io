@@ -51,8 +51,9 @@ td, th {
       <td style="width:10px"></td>
       <td valign="middle">
         <div>
-          <a href="https://ora.ox.ac.uk/objects/uuid:b3c2686c-b6c7-4cce-bd7f-3104811d9c12" target="_blank" style="text-decoration: none; color: inherit;">
-            <b>MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation</b>
+          <a href="https://ora.ox.ac.uk/objects/uuid:b3c2686c-b6c7-4cce-bd7f-3104811d9c12" target="_blank" style="color: #1a0dab; text-decoration: underline;">
+            MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation
+          </a>
           </a>
           <br>
           <b>Xin Wang</b>, Ling Feng, Huijun Zhang, Lei Cao, Kaisheng Zeng, Qi Li, Yang Ding, Yi Dai, David A. Clifton
