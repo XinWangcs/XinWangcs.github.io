@@ -50,7 +50,7 @@ td, th {
       </td>
       <td style="width:10px"></td>
       <td valign="middle">
-        <div>
+         <div style="font-size: 16px;">
           <a href="https://ora.ox.ac.uk/objects/uuid:b3c2686c-b6c7-4cce-bd7f-3104811d9c12" target="_blank" style="text-decoration: underline;">
             MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation
           </a>
