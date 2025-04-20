@@ -40,18 +40,18 @@ Proceedings of the ACM Web Conference 2025 (WWW2025, <font color="#d76666">Oral 
   <tbody>
     <tr>
       <td style="width:230px; height:110px" valign="middle" align="middle">
-        <img src="https://github.com/XinWangcs/XinWangcs.github.io/blob/master/images/MISE.pdf" width="250">
+        <img src="https://raw.githubusercontent.com/XinWangcs/XinWangcs.github.io/master/images/MISE.png" width="250">
       </td>
       <td style="width:10px"></td>
       <td valign="middle">
         <div>
-            <a href="https://ora.ox.ac.uk/objects/uuid:b3c2686c-b6c7-4cce-bd7f-3104811d9c12" >
-              MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation
-            </a>
+          <a href="https://ora.ox.ac.uk/objects/uuid:b3c2686c-b6c7-4cce-bd7f-3104811d9c12" target="_blank" style="text-decoration: none; color: inherit;">
+            <b>MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation</b>
+          </a>
           <br>
           <b>Xin Wang</b>, Ling Feng, Huijun Zhang, Lei Cao, Kaisheng Zeng, Qi Li, Yang Ding, Yi Dai, David A. Clifton
           <br>
-            Proceedings of the ACM Web Conference 2025 (WWW 2025, <font color="#d76666">Oral Presentation</font>)
+          <i>Proceedings of the ACM Web Conference 2025 (WWW 2025, <font color="#d76666">Oral Presentation</font>)</i>
         </div>
       </td>
     </tr>
