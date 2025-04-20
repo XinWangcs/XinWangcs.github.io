@@ -37,20 +37,32 @@ Selected Publications
 Proceedings of the ACM Web Conference 2025 (WWW2025, <font color="#d76666">Oral Presentation</font>)
 
 <style>
-td, th {
-   border: none!important;
-}
+  td, th {
+    border: none!important;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  @media screen and (max-width: 600px) {
+    td[colspan] {
+      display: block;
+      width: 100% !important;
+    }
+  }
 </style>
 
-<table style="border: none!important;">
+<table style="border: none!important; width: 100%;">
   <tbody>
     <tr>
-      <td style="width:230px; height:110px" valign="middle" align="middle">
-        <img src="https://raw.githubusercontent.com/XinWangcs/XinWangcs.github.io/master/images/MISE.png">
+      <td style="width: 40%; vertical-align: middle; text-align: center;">
+        <img src="https://raw.githubusercontent.com/XinWangcs/XinWangcs.github.io/master/images/MISE.png" alt="MISE">
       </td>
-      <td style="width:10px"></td>
-      <td valign="middle">
-         <div style="font-size: 18px;">
+      <td style="width: 5%;"></td>
+      <td style="width: 55%; vertical-align: middle;">
+        <div style="font-size: 16px;">
           <a href="https://ora.ox.ac.uk/objects/uuid:b3c2686c-b6c7-4cce-bd7f-3104811d9c12" target="_blank" style="text-decoration: underline;">
             MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation
           </a>
@@ -63,6 +75,7 @@ td, th {
     </tr>
   </tbody>
 </table>
+
 
 
 
