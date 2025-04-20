@@ -46,7 +46,7 @@ td, th {
   <tbody>
     <tr>
       <td style="width:230px; height:110px" valign="middle" align="middle">
-        <img src="https://raw.githubusercontent.com/XinWangcs/XinWangcs.github.io/master/images/MISE.png" width="250">
+        <img src="https://raw.githubusercontent.com/XinWangcs/XinWangcs.github.io/master/images/MISE.png">
       </td>
       <td style="width:10px"></td>
       <td valign="middle">
