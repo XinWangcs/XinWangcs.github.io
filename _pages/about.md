@@ -57,8 +57,8 @@ Selected Publications
       <td style="width: 35%; vertical-align: middle; text-align: center;">
         <img src="https://raw.githubusercontent.com/XinWangcs/XinWangcs.github.io/master/images/MISE.png" alt="MISE">
       </td>
-      <td style="width: 5%;"></td>
-      <td style="width: 60%; vertical-align: middle;">
+      <td style="width: 3%;"></td>
+      <td style="width: 62%; vertical-align: middle;">
         <div style="font-size: 16px;">
           <a href="https://ora.ox.ac.uk/objects/uuid:b3c2686c-b6c7-4cce-bd7f-3104811d9c12" target="_blank" style="text-decoration: underline;">
             MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation
@@ -79,16 +79,38 @@ Selected Publications
       <td style="width: 35%; vertical-align: middle; text-align: center;">
         <img src="https://raw.githubusercontent.com/XinWangcs/XinWangcs.github.io/master/images/vediostress.png" alt="vediostress">
       </td>
-      <td style="width: 5%;"></td>
-      <td style="width: 60%; vertical-align: middle;">
+      <td style="width: 3%;"></td>
+      <td style="width: 62%; vertical-align: middle;">
         <div style="font-size: 16px;">
           <a href="https://dl.acm.org/doi/pdf/10.1145/3664647.3680584" target="_blank" style="text-decoration: underline;">
-            MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation
+            Integrating Content-Semantics-World Knowledge to Detect Stress from Videos
           </a>
           <br>
           Yang Ding, Yi Dai, <b>Xin Wang*</b>, Ling Feng, Lei Cao, Huijun Zhang
           <br>
           Proceedings of the 32nd ACM International Conference on Multimedia (MM2024)
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="border: none!important; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="width: 35%; vertical-align: middle; text-align: center;">
+        <img src="https://raw.githubusercontent.com/XinWangcs/XinWangcs.github.io/master/images/SSE.png" alt="SSE">
+      </td>
+      <td style="width: 3%;"></td>
+      <td style="width: 62%; vertical-align: middle;">
+        <div style="font-size: 16px;">
+          <a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599795" target="_blank" style="text-decoration: underline;">
+            Contrastive Learning of Stress-specific Word Embedding for Social Media based Stress Detection
+          </a>
+          <br>
+          <b>Xin Wang</b>, Huijun Zhang, Lei Cao, Ling Feng, Qi Li, Ningyun Li, Ling Feng
+          <br>
+          Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD2023)
         </div>
       </td>
     </tr>
