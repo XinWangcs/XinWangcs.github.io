@@ -22,7 +22,7 @@ My recent interest focus on:
 News
 ---
 - [2025-01] One first author paper is accepted by WWW2025 as Oral. One paper is accepted by IEEE TMM.
-- [2024-12] One paper is accepted by ICASSP2024.
+- [2024-12] One paper is accepted by ICASSP2025.
 - [2024-11] One paper is accepted by IEEE TAC.
 - [2024-07] One corresponding author paper is accepted by MM2024. One paper is accepted by UBICOMP2024.
 - [2024-05] One paper is accepted by ECML PKDD2024.
