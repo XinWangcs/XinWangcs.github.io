@@ -32,9 +32,6 @@ News
 Selected Publications
 ---
 (*: corresponding author)
-- [MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation](https://ora.ox.ac.uk/objects/uuid:b3c2686c-b6c7-4cce-bd7f-3104811d9c12).<br>
-**Xin Wang**, Ling Feng, Huijun Zhang, Lei Cao, Kaisheng Zeng, Qi Li, Yang Ding, Yi Dai, David A Clifton<br>
-Proceedings of the ACM Web Conference 2025 (WWW2025, <font color="#d76666">Oral Presentation</font>)
 
 <style>
   td, th {
@@ -57,11 +54,11 @@ Proceedings of the ACM Web Conference 2025 (WWW2025, <font color="#d76666">Oral 
 <table style="border: none!important; width: 100%;">
   <tbody>
     <tr>
-      <td style="width: 40%; vertical-align: middle; text-align: center;">
+      <td style="width: 35%; vertical-align: middle; text-align: center;">
         <img src="https://raw.githubusercontent.com/XinWangcs/XinWangcs.github.io/master/images/MISE.png" alt="MISE">
       </td>
       <td style="width: 5%;"></td>
-      <td style="width: 55%; vertical-align: middle;">
+      <td style="width: 60%; vertical-align: middle;">
         <div style="font-size: 16px;">
           <a href="https://ora.ox.ac.uk/objects/uuid:b3c2686c-b6c7-4cce-bd7f-3104811d9c12" target="_blank" style="text-decoration: underline;">
             MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation
@@ -76,8 +73,17 @@ Proceedings of the ACM Web Conference 2025 (WWW2025, <font color="#d76666">Oral 
   </tbody>
 </table>
 
+Academic Services
+---
+- Conference Reviewer or Program Committee Member: NIPS23,24,25、ICLR24,25、ACL21,23,24、WWW22,24,25、KDD24,25、MM24、EMNLP21,22,23,24、 NAACL21,24、EACL23、AACL20,22,23、ACL Rolling Review
+- Journal Reviewer: TKDE, Health Information Science and System
 
+<a href="https://info.flagcounter.com/nzhX"><img src="https://s11.flagcounter.com/count2/nzhX/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
+<!--
+- [MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation](https://ora.ox.ac.uk/objects/uuid:b3c2686c-b6c7-4cce-bd7f-3104811d9c12).<br>
+**Xin Wang**, Ling Feng, Huijun Zhang, Lei Cao, Kaisheng Zeng, Qi Li, Yang Ding, Yi Dai, David A Clifton<br>
+Proceedings of the ACM Web Conference 2025 (WWW2025, <font color="#d76666">Oral Presentation</font>)
 
 - [Integrating Content-Semantics-World Knowledge to Detect Stress from Videos](https://dl.acm.org/doi/pdf/10.1145/3664647.3680584).<br>
 Yang Ding, Yi Dai, **Xin Wang\***, Ling Feng, Lei Cao, Huijun Zhang<br>
@@ -94,13 +100,8 @@ Proceedings of the ACM Web Conference 2022 (WWW2022, <font color="#d76666">Oral 
 - [Leverage Social Media for Personalized Stress Detection](https://dl.acm.org/doi/abs/10.1145/3394171.3413596).<br>
 **Xin Wang**, Huijun Zhang, Lei Cao, Ling Feng.<br>
 Proceedings of the 28th ACM Iternational Conference on Multimedia. (MM2020)
+-->
 
-Academic Services
----
-- Conference Reviewer or Program Committee Member: NIPS23,24,25、ICLR24,25、ACL21,23,24、WWW22,24,25、KDD24,25、MM24、EMNLP21,22,23,24、 NAACL21,24、EACL23、AACL20,22,23、ACL Rolling Review
-- Journal Reviewer: TKDE, Health Information Science and System
-
-<a href="https://info.flagcounter.com/nzhX"><img src="https://s11.flagcounter.com/count2/nzhX/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
