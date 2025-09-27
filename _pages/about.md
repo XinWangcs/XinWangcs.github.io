@@ -30,7 +30,7 @@ News
 - [2023-12] One paper is accepted by ICASSP2024.
 - [2023-05] One first author paper is accepted by KDD2023. One paper is accepted by IEEE JBHI.
 
-Selected Publications
+Recent Publications
 ---
 (*: corresponding author)
 
