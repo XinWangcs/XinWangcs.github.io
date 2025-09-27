@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 
-You can also find all my papers on my [Google Scholar](https://scholar.google.com/citations?user=K9-1BcQAAAAJ)
+You can find all my papers on my [Google Scholar](https://scholar.google.com/citations?user=K9-1BcQAAAAJ)
 
 ---
 (*: corresponding author)
