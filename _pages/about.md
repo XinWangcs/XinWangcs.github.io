@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am Xin Wang, a postdoctoral researcher from [University of Oxford](https://www.ox.ac.uk/) since 2024. I am fortunately to begin an [AI for Healthcare](https://eng.ox.ac.uk/chi/) research journey with [Prof. David Clifton](https://eng.ox.ac.uk/people/david-clifton/).
-Previously, I got my doctor Degree from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/) in 2023, fortunately be advised by [Prof. Ling Feng](https://www.cs.tsinghua.edu.cn/info/1111/3489.htm). 
+Previously, I got my doctor Degree from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), fortunately be advised by [Prof. Ling Feng](https://www.cs.tsinghua.edu.cn/info/1111/3489.htm). 
 
 My previous research interest lies in Data Mining (DM) and Natural Language Processing (NLP) – with special focus on Computational Mental Health and Knowledge Graph.
 
@@ -20,6 +20,7 @@ My recent interest focus on:
 News
 ---
 - [2025-09] One paper is accepted by NeurIPS2025 as Spotlight.
+- [2025-05] Stressor dataset is now released on [Kaggle](https://www.kaggle.com/datasets/xinwangcs/stressor-cause-of-mental-health-problem-dataset) and [Huggingface](https://huggingface.co/datasets/XinWangcs/Stressor).
 - [2025-01] One first author paper is accepted by WWW2025 as Oral. One paper is accepted by IEEE TMM.
 - [2024-12] One paper is accepted by ICASSP2025.
 - [2024-11] One paper is accepted by IEEE TAC.
