@@ -24,7 +24,7 @@ You can find all my papers on my [Google Scholar](https://scholar.google.com/cit
 - **MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation.**<br>
 **Xin Wang**, Ling Feng, Huijun Zhang, Lei Cao, Kaisheng Zeng, Qi Li, Yang Ding, Yi Dai, David A Clifton<br>
 Proceedings of the ACM Web Conference 2025 (**WWW2025, <font color="#d76666">Oral Presentation</font>**)<br>
-[[pdf](https://ora.ox.ac.uk/objects/uuid:b3c2686c-b6c7-4cce-bd7f-3104811d9c12)][[code](https://github.com/xin-wang18/MISE)][[data](https://www.kaggle.com/datasets/xinwangcs/stressor-cause-of-mental-health-problem-dataset)]
+[[pdf](https://arxiv.org/abs/2505.03827)][[code](https://github.com/xin-wang18/MISE)][[data](https://www.kaggle.com/datasets/xinwangcs/stressor-cause-of-mental-health-problem-dataset)]
 - **Integrating Content-Semantics-World Knowledge to Detect Stress from Videos.**<br>
 Yang Ding, Yi Dai, **Xin Wang\***, Ling Feng, Lei Cao, Huijun Zhang.<br>
 Proceedings of the 32nd ACM International Conference on Multimedia (**MM2024**)<br>
