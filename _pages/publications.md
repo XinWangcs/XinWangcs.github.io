@@ -40,6 +40,7 @@ Proceedings of the ACM Web Conference 2022 (WWW2022)
 - [Leverage Social Media for Personalized Stress Detection](https://dl.acm.org/doi/abs/10.1145/3394171.3413596).<br>
 **Xin Wang**, Huijun Zhang, Lei Cao, Ling Feng.<br>
 Proceedings of the 28th ACM Iternational Conference on Multimedia. (MM2020)
+
 <!--
 **2024**
 - **Leveraging Social Media for Real-Time Interpretable and Amendable Suicide Risk Prediction With Human-in-The-Loop.**<br>
