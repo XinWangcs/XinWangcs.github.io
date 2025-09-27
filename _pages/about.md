@@ -11,9 +11,7 @@ redirect_from:
 I am Xin Wang, a postdoctoral researcher from [University of Oxford](https://www.ox.ac.uk/) since 2024. I am fortunately to begin an [AI for Healthcare](https://eng.ox.ac.uk/chi/) research journey with [Prof. David Clifton](https://eng.ox.ac.uk/people/david-clifton/).
 Previously, I got my doctor Degree from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/) in 2023, fortunately be advised by [Prof. Ling Feng](https://www.cs.tsinghua.edu.cn/info/1111/3489.htm). 
 
-My research interest lies in Data Mining (DM) and Natural Language Processing (NLP) – with special focus on：
-- Computational Mental Health
-- Knowledge Graph
+My previous research interest lies in Data Mining (DM) and Natural Language Processing (NLP) – with special focus on Computational Psychology and Knowledge Graph.
 
 My recent interest focus on: 
 - AI4Health
@@ -124,18 +122,22 @@ Recent Publications
 Boyan Gao, **Xin Wang**, Yibo Yang, David A Clifton<br>
 The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS2025, <font color="#d76666">Spotlight</font>)
 
+- [Flexible Optimal Transport with Contrastive Graphical Modeling For Multimodal Hate Detection](https://ieeexplore.ieee.org/abstract/document/11045556).<br>
+Linhao Zhang, Li Jin, Xiaoyu Li, Xian Sun, **Xin Wang**, Zequn Zhang, Jian Liu, Zhicong Lu, Guangluan Xu<br>
+IEEE Transactions on Multimedia (TMM2025)
+
 - [MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation](https://ora.ox.ac.uk/objects/uuid:b3c2686c-b6c7-4cce-bd7f-3104811d9c12).<br>
 **Xin Wang**, Ling Feng, Huijun Zhang, Lei Cao, Kaisheng Zeng, Qi Li, Yang Ding, Yi Dai, David A Clifton<br>
 Proceedings of the ACM Web Conference 2025 (WWW2025, <font color="#d76666">Oral Presentation</font>)
 
-- [Integrating Content-Semantics-World Knowledge to Detect Stress from Videos](https://dl.acm.org/doi/pdf/10.1145/3664647.3680584).<br>
-Yang Ding, Yi Dai, **Xin Wang\***, Ling Feng\*, Lei Cao, Huijun Zhang<br>
-Proceedings of the 32nd ACM International Conference on Multimedia (MM2024)
+- [MuRL-DTI: A Multimodal Feature Fusion Reinforcement Learning Approach for Cold Start in Drug-Target Interactions](https://ieeexplore.ieee.org/abstract/document/10888048).<br>
+Liu Yao, **Xin Wang**, Ye Liu, Dandan Dou <br>
+IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP2025)
 
 
 Academic Services
 ---
-- Conference Reviewer or Program Committee Member: NIPS23,24,25、ICLR24,25、ACL21,23,24、WWW22,24,25、KDD24,25、MM24、EMNLP21,22,23,24、 NAACL21,24、EACL23、AACL20,22,23、ACL Rolling Review
+- Conference Reviewer or Program Committee Member: NIPS23,24,25、ICLR24,25、ACL21,23,24、WWW22,24,25、KDD24,25、AAAI26、MM24,25、EMNLP21,22,23,24、 NAACL21,24、EACL23、AACL20,22,23、ACL Rolling Review
 - Journal Reviewer: TKDE, Health Information Science and System
 
 <a href="https://info.flagcounter.com/nzhX"><img src="https://s11.flagcounter.com/count2/nzhX/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
