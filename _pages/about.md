@@ -7,10 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<!--
 I am Xin Wang, a postdoctoral researcher from [University of Oxford](https://www.ox.ac.uk/) since 2024. I am fortunately to begin an [AI for Healthcare](https://eng.ox.ac.uk/chi/) research journey with [Prof. David Clifton](https://eng.ox.ac.uk/people/david-clifton/).
 Previously, I got my doctor degree from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), fortunately be advised by [Prof. Ling Feng](https://www.cs.tsinghua.edu.cn/info/1111/3489.htm). 
+-->
 
+I am Xin Wang, a postdoctoral researcher at the [University of Oxford](https://www.ox.ac.uk/) since 2024, working with [Prof. David Clifton](https://eng.ox.ac.uk/people/david-clifton/) on [AI for Healthcare](https://eng.ox.ac.uk/chi/). I received my Ph.D. in [Computer Science and Technology](https://www.cs.tsinghua.edu.cn/) from [Tsinghua University](https://www.tsinghua.edu.cn/), where I was advised by [Prof. Ling Feng](https://www.cs.tsinghua.edu.cn/info/1111/3489.htm).
 My previous research interest lies in Data Mining (DM) and Natural Language Processing (NLP) – with special focus on computational mental health and knowledge graph.
 
 My recent interest focus on: 
