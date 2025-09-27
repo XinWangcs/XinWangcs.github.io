@@ -21,6 +21,7 @@ My recent interest focus on:
 
 News
 ---
+- [2025-09] One paper is accepted by NeurIPS2025 as Spotlight.
 - [2025-01] One first author paper is accepted by WWW2025 as Oral. One paper is accepted by IEEE TMM.
 - [2024-12] One paper is accepted by ICASSP2025.
 - [2024-11] One paper is accepted by IEEE TAC.
