@@ -120,25 +120,18 @@ Recent Publications
 </table>
 -->
 
+- [Optimization-Inspired Few-Shot Adaptation for Large Language Models](https://arxiv.org/abs/2505.19107).<br>
+Boyan Gao, **Xin Wang**, Yibo Yang, David A Clifton<br>
+The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS2025, <font color="#d76666">Spotlight</font>)
+
 - [MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation](https://ora.ox.ac.uk/objects/uuid:b3c2686c-b6c7-4cce-bd7f-3104811d9c12).<br>
 **Xin Wang**, Ling Feng, Huijun Zhang, Lei Cao, Kaisheng Zeng, Qi Li, Yang Ding, Yi Dai, David A Clifton<br>
 Proceedings of the ACM Web Conference 2025 (WWW2025, <font color="#d76666">Oral Presentation</font>)
 
 - [Integrating Content-Semantics-World Knowledge to Detect Stress from Videos](https://dl.acm.org/doi/pdf/10.1145/3664647.3680584).<br>
-Yang Ding, Yi Dai, **Xin Wang\***, Ling Feng, Lei Cao, Huijun Zhang<br>
+Yang Ding, Yi Dai, **Xin Wang\***, Ling Feng\*, Lei Cao, Huijun Zhang<br>
 Proceedings of the 32nd ACM International Conference on Multimedia (MM2024)
 
-- [Contrastive Learning of Stress-specific Word Embedding for Social Media based Stress Detection](https://dl.acm.org/doi/pdf/10.1145/3580305.3599795).<br>
-**Xin Wang**, Huijun Zhang, Lei Cao, Ling Feng, Qi Li, Ningyun Li, Ling Feng.<br>
-Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD2023)
-
-- [A Meta-learning based Stress Category Detection Framework on Social Media](https://dl.acm.org/doi/pdf/10.1145/3485447.3512013).<br>
-**Xin Wang**, Lei Cao, Huijun Zhang, Ling Feng, Yang Ding, Ningyun Li.<br>
-Proceedings of the ACM Web Conference 2022 (WWW2022, <font color="#d76666">Oral Presentation</font>)
-
-- [Leverage Social Media for Personalized Stress Detection](https://dl.acm.org/doi/abs/10.1145/3394171.3413596).<br>
-**Xin Wang**, Huijun Zhang, Lei Cao, Ling Feng.<br>
-Proceedings of the 28th ACM Iternational Conference on Multimedia. (MM2020)
 
 Academic Services
 ---
