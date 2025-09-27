@@ -15,7 +15,7 @@ My previous research interest lies in Data Mining (DM) and Natural Language Proc
 
 My recent interest focus on: 
 - AI4Health
-- LMMs and AI Agents
+- LLMs and AI Agents
 
 News
 ---
