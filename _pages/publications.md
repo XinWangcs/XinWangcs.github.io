@@ -26,7 +26,7 @@ You can find all my papers on my [Google Scholar](https://scholar.google.com/cit
 Proceedings of the ACM Web Conference 2025 (**WWW2025, <font color="#d76666">Oral Presentation</font>**)<br>
 [[pdf](https://arxiv.org/abs/2505.03827)][[code](https://github.com/xin-wang18/MISE)][[data](https://www.kaggle.com/datasets/xinwangcs/stressor-cause-of-mental-health-problem-dataset)]
 - **Integrating Content-Semantics-World Knowledge to Detect Stress from Videos.**<br>
-Yang Ding, Yi Dai, **Xin Wang\***, Ling Feng, Lei Cao, Huijun Zhang.<br>
+Yang Ding, Yi Dai, **Xin Wang\***, Ling Feng\*, Lei Cao, Huijun Zhang.<br>
 Proceedings of the 32nd ACM International Conference on Multimedia (**MM2024**)<br>
 [[pdf](https://dl.acm.org/doi/pdf/10.1145/3664647.3680584)]
 - **Contrastive Learning of Stress-specific Word Embedding for Social Media based Stress Detection.**<br>
