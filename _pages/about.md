@@ -123,9 +123,12 @@ Recent Publications
 Boyan Gao, **Xin Wang**, Yibo Yang, David A Clifton<br>
 The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS2025, <font color="#d76666">Spotlight</font>)
 
+
+<!--
 - [Flexible Optimal Transport with Contrastive Graphical Modeling For Multimodal Hate Detection](https://ieeexplore.ieee.org/abstract/document/11045556).<br>
 Linhao Zhang, Li Jin, Xiaoyu Li, Xian Sun, **Xin Wang**, Zequn Zhang, Jian Liu, Zhicong Lu, Guangluan Xu<br>
-IEEE Transactions on Multimedia (TMM2025)
+IEEE Transactions on Multimedia 2025
+-->
 
 - [MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation](https://ora.ox.ac.uk/objects/uuid:b3c2686c-b6c7-4cce-bd7f-3104811d9c12).<br>
 **Xin Wang**, Ling Feng, Huijun Zhang, Lei Cao, Kaisheng Zeng, Qi Li, Yang Ding, Yi Dai, David A Clifton<br>
@@ -133,7 +136,7 @@ Proceedings of the ACM Web Conference 2025 (WWW2025, <font color="#d76666">Oral 
 
 - [MuRL-DTI: A Multimodal Feature Fusion Reinforcement Learning Approach for Cold Start in Drug-Target Interactions](https://ieeexplore.ieee.org/abstract/document/10888048).<br>
 Liu Yao, **Xin Wang**, Ye Liu, Dandan Dou <br>
-IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP2025)
+IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025)
 
 
 Academic Services
