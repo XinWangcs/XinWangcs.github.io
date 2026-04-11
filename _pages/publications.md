@@ -33,7 +33,7 @@ Proceedings of the 32nd ACM International Conference on Multimedia (**MM2024**)<
 **Xin Wang**, Huijun Zhang, Lei Cao, Ling Feng, Qi Li, Ningyun Li, Ling Feng.<br>
 Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD2023**)<br>
 [[pdf](https://dl.acm.org/doi/pdf/10.1145/3580305.3599795)][[code](https://github.com/xin-wang18/SSE)][[data](https://github.com/xin-wang18/SSE)]
-- **A meta-learning based stress category detection framework on social media.**<br>
+- **A Meta-learning based Stress Category Detection Framework on Social Media.**<br>
 **Xin Wang**, Lei Cao, Huijun Zhang, Ling Feng, Yang Ding, Ningyun Li.<br>
 Proceedings of the ACM Web Conference 2022 (**WWW2022**)<br>
 [[pdf](https://dl.acm.org/doi/pdf/10.1145/3485447.3512013)][[data](https://github.com/xin-wang18/Categroy-Dataset)]
