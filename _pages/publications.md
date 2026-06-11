@@ -34,7 +34,7 @@ The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**N
 [[pdf](https://arxiv.org/abs/2505.19107)]
 
 
-### AI for Mental Health and Social Media Understanding
+### AI for Mental Health and Social Computing
 
 - **MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation.**<br>
 **Xin Wang**, Ling Feng, Huijun Zhang, Lei Cao, Kaisheng Zeng, Qi Li, Yang Ding, Yi Dai, David A Clifton<br>
