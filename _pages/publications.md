@@ -21,7 +21,7 @@ You can find all my papers on my [Google Scholar](https://scholar.google.com/cit
 ---
 (*: corresponding author)
 
-### Large Language Models, Reasoning, and Adaptation
+## Large Language Models, Reasoning, and Adaptation
 
 - **Mental-R1: Aligning LLM Reasoning for Mental Health Assessment.**<br>
 **Xin Wang**, Boyan Gao, Yibo Yang, David A Clifton<br>
@@ -34,7 +34,7 @@ The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**N
 [[pdf](https://arxiv.org/abs/2505.19107)]
 
 
-### AI for Mental Health and Social Computing
+## AI for Mental Health and Social Computing
 
 - **MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation.**<br>
 **Xin Wang**, Ling Feng, Huijun Zhang, Lei Cao, Kaisheng Zeng, Qi Li, Yang Ding, Yi Dai, David A Clifton<br>
@@ -57,7 +57,7 @@ Proceedings of the 28th ACM International Conference on Multimedia (**MM2020**)<
 [[pdf](https://dl.acm.org/doi/pdf/10.1145/3394171.3413596)]
 
 
-### Multimodal and Representation Learning
+## Multimodal and Representation Learning
 
 - **Integrating Content-Semantics-World Knowledge to Detect Stress from Videos.**<br>
 Yang Ding, Yi Dai, **Xin Wang\***, Ling Feng\*, Lei Cao, Huijun Zhang.<br>
@@ -75,7 +75,7 @@ IEEE Transactions on Multimedia (**TMM2025**)<br>
 [[pdf](https://ieeexplore.ieee.org/abstract/document/11045556)][[code](https://github.com/TomatoNLPer/FLOT)]
 
 
-### Biomedical AI and Knowledge Graphs
+## Biomedical AI and Knowledge Graphs
 
 - **MuRL-DTI: A Multimodal Feature Fusion Reinforcement Learning Approach for Cold Start in Drug-Target Interactions.**<br>
 Yao Liu, **Xin Wang**, Ye Liu, Dandan Dou.<br>
