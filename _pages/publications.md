@@ -91,12 +91,12 @@ Proceedings of the 32nd ACM International Conference on Multimedia (**MM2024**)<
 - **Fine-Grained Question-Level Deception Detection via Graph-Based Learning and Cross-Modal Fusion.**<br>
 Huijun Zhang, Yang Ding, Lei Cao, **Xin Wang**, Ling Feng.<br>
 IEEE Transactions on Information Forensics and Security (**TIFS2022**)<br>
-[[pdf](https://ieeexplore.ieee.org/document/9815155)]
+[[pdf](https://ieeexplore.ieee.org/document/9808161)][[code](https://github.com/zhjsss12/GCFM-pytorch)]
 
 - **Flexible Optimal Transport With Contrastive Graphical Modeling for Multimodal Hate Detection.**<br>
 Linhao Zhang, Li Jin, Xiaoyu Li, Xian Sun, **Xin Wang**, Zequn Zhang, Jian Liu, Zhicong Lu, Guangluan Xu.<br>
 IEEE Transactions on Multimedia (**TMM2025**)<br>
-[[pdf](https://ieeexplore.ieee.org/abstract/document/11045556)]
+[[pdf](https://ieeexplore.ieee.org/abstract/document/11045556)][[code](https://github.com/TomatoNLPer/FLOT)]
 
 
 ### Biomedical AI and Knowledge Graphs
