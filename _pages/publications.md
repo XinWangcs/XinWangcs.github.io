@@ -20,31 +20,7 @@ You can find all my papers on my [Google Scholar](https://scholar.google.com/cit
 
 ---
 (*: corresponding author)
-<!--
-- **MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation.**<br>
-**Xin Wang**, Ling Feng, Huijun Zhang, Lei Cao, Kaisheng Zeng, Qi Li, Yang Ding, Yi Dai, David A Clifton<br>
-Proceedings of the ACM Web Conference 2025 (**WWW2025, <font color="#d76666">Oral Presentation</font>**)<br>
-[[pdf](https://arxiv.org/abs/2505.03827)][[code](https://github.com/xin-wang18/MISE)][[data](https://www.kaggle.com/datasets/xinwangcs/stressor-cause-of-mental-health-problem-dataset)]
-- **Integrating Content-Semantics-World Knowledge to Detect Stress from Videos.**<br>
-Yang Ding, Yi Dai, **Xin Wang\***, Ling Feng\*, Lei Cao, Huijun Zhang.<br>
-Proceedings of the 32nd ACM International Conference on Multimedia (**MM2024**)<br>
-[[pdf](https://dl.acm.org/doi/pdf/10.1145/3664647.3680584)]
-- **Contrastive Learning of Stress-specific Word Embedding for Social Media based Stress Detection.**<br>
-**Xin Wang**, Huijun Zhang, Lei Cao, Ling Feng, Qi Li, Ningyun Li, Ling Feng.<br>
-Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD2023**)<br>
-[[pdf](https://dl.acm.org/doi/pdf/10.1145/3580305.3599795)][[code](https://github.com/xin-wang18/SSE)][[data](https://github.com/xin-wang18/SSE)]
-- **A Meta-learning based Stress Category Detection Framework on Social Media.**<br>
-**Xin Wang**, Lei Cao, Huijun Zhang, Ling Feng, Yang Ding, Ningyun Li.<br>
-Proceedings of the ACM Web Conference 2022 (**WWW2022**)<br>
-[[pdf](https://dl.acm.org/doi/pdf/10.1145/3485447.3512013)][[data](https://github.com/xin-wang18/Categroy-Dataset)]
-- **Leverage Social Media for Personalized Stress Detection.**<br>
-**Xin Wang**, Huijun Zhang, Lei Cao, Ling Feng.<br>
-Proceedings of the 28th ACM international conference on multimedia. (**MM2020**)<br>
-[[pdf](https://dl.acm.org/doi/pdf/10.1145/3394171.3413596)]
 
-Selected Publications
----
--->
 ### Large Language Models, Reasoning, and Adaptation
 
 - **Mental-R1: Aligning LLM Reasoning for Mental Health Assessment.**<br>
