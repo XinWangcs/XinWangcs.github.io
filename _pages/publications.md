@@ -51,11 +51,6 @@ Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mi
 Proceedings of the ACM Web Conference 2022 (**WWW2022**)<br>
 [[pdf](https://dl.acm.org/doi/pdf/10.1145/3485447.3512013)][[data](https://github.com/xin-wang18/Categroy-Dataset)]
 
-- **Leverage Social Media for Personalized Stress Detection.**<br>
-**Xin Wang**, Huijun Zhang, Lei Cao, Ling Feng.<br>
-Proceedings of the 28th ACM International Conference on Multimedia (**MM2020**)<br>
-[[pdf](https://dl.acm.org/doi/pdf/10.1145/3394171.3413596)]
-
 
 ## Multimodal and Representation Learning
 
@@ -69,10 +64,10 @@ Huijun Zhang, Yang Ding, Lei Cao, **Xin Wang**, Ling Feng.<br>
 IEEE Transactions on Information Forensics and Security (**TIFS2022**)<br>
 [[pdf](https://ieeexplore.ieee.org/document/9808161)][[code](https://github.com/zhjsss12/GCFM-pytorch)]
 
-- **Flexible Optimal Transport With Contrastive Graphical Modeling for Multimodal Hate Detection.**<br>
-Linhao Zhang, Li Jin, Xiaoyu Li, Xian Sun, **Xin Wang**, Zequn Zhang, Jian Liu, Zhicong Lu, Guangluan Xu.<br>
-IEEE Transactions on Multimedia (**TMM2025**)<br>
-[[pdf](https://ieeexplore.ieee.org/abstract/document/11045556)][[code](https://github.com/TomatoNLPer/FLOT)]
+- **Leverage Social Media for Personalized Stress Detection.**<br>
+**Xin Wang**, Huijun Zhang, Lei Cao, Ling Feng.<br>
+Proceedings of the 28th ACM International Conference on Multimedia (**MM2020**)<br>
+[[pdf](https://dl.acm.org/doi/pdf/10.1145/3394171.3413596)]
 
 
 ## Biomedical AI and Knowledge Graphs
