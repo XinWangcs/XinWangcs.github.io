@@ -16,7 +16,7 @@ I am Xin Wang, a postdoctoral researcher at the [University of Oxford](https://w
 My previous research interest lies in Data Mining and Natural Language Processing – with special focus on computational mental health and knowledge graph.
 
 My recent interest include: 
-- AI for Healthcare and Biomedicine
+- AI for Health and Biomedicine
 - LLMs and AI agents
 - Multimodal and Representation Learning
 
