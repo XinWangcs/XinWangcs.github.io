@@ -52,7 +52,7 @@ Proceedings of the ACM Web Conference 2022 (**WWW2022**)<br>
 [[pdf](https://dl.acm.org/doi/pdf/10.1145/3485447.3512013)][[data](https://github.com/xin-wang18/Categroy-Dataset)]
 
 
-## Multimodal and Representation Learning
+## Multimodal AI
 
 - **Integrating Content-Semantics-World Knowledge to Detect Stress from Videos.**<br>
 Yang Ding, Yi Dai, **Xin Wang\***, Ling Feng\*, Lei Cao, Huijun Zhang.<br>
