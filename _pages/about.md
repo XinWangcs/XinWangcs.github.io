@@ -18,7 +18,7 @@ My previous research interest lies in Data Mining and Natural Language Processin
 My recent interest include: 
 - AI for Health and Biomedicine
 - LLMs and AI agents
-- Multimodal and Representation Learning
+- Multimodal AI
 
 
 News
