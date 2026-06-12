@@ -26,7 +26,7 @@ You can find all my papers on my [Google Scholar](https://scholar.google.com/cit
 - **Mental-R1: Aligning LLM Reasoning for Mental Health Assessment.**<br>
 **Xin Wang**, Boyan Gao, Yibo Yang, David A Clifton<br>
 Preprint<br>
-[[pdf](LINK_TO_PAPER)]
+[[pdf](http://arxiv.org/abs/2606.13176)]
 
 - **Optimization-Inspired Few-Shot Adaptation for Large Language Models.**<br>
 Boyan Gao, **Xin Wang**, Yibo Yang, David A Clifton<br>
