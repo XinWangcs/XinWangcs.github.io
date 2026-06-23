@@ -80,12 +80,12 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (**ICAS
 - **SAGS-DynamicBio: Integrating Semantic-Aware and Graph Structure-Aware Embedding for Dynamic Biological Data with Knowledge Graphs.**<br>
 Yao Liu, Yongfei Zhang, **Xin Wang**.<br>
 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML PKDD2024**)<br>
-[[pdf](https://link.springer.com/chapter/10.1007/978-3-031-70365-2_17)]
+[[pdf](https://dl.acm.org/doi/10.1007/978-3-031-70378-2_18)]
 
 - **Heuristic-Driven, Type-Specific Embedding in Parallel Spaces for Enhancing Knowledge Graph Reasoning.**<br>
 Yao Liu, Yongfei Zhang, **Xin Wang**, Shan Yang.<br>
 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP2024**)<br>
-[[pdf](https://ieeexplore.ieee.org/document/10447989)]
+[[pdf](https://ieeexplore.ieee.org/document/10445955)]
 
 
 <!--
