@@ -21,70 +21,72 @@ You can find all my papers on my [Google Scholar](https://scholar.google.com/cit
 ---
 (*: corresponding author)
 
-## Large Language Models, Reasoning, and Adaptation
+## LLM Reasoning and Adaptation
 
-- **Mental-R1: Aligning LLM Reasoning for Mental Health Assessment.**<br>
-**Xin Wang**, Boyan Gao, Yibo Yang, David A Clifton<br>
-Preprint<br>
+*General methods for improving how large language models reason and adapt, so they learn efficiently, reason reliably, and generalize across tasks and domains.*
+
+- **Mental-R1: Aligning LLM Reasoning for Mental Health Assessment.**  
+ **Xin Wang**, Boyan Gao, Yibo Yang, David A Clifton  
+Preprint, arXiv:2606.13176  
 [[pdf](http://arxiv.org/abs/2606.13176)]
 
-- **Optimization-Inspired Few-Shot Adaptation for Large Language Models.**<br>
-Boyan Gao, **Xin Wang**, Yibo Yang, David A Clifton<br>
-The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**NeurIPS2025, <font color="#d76666">Spotlight</font>**)<br>
+- **Optimization-Inspired Few-Shot Adaptation for Large Language Models.**  
+Boyan Gao, **Xin Wang**, Yibo Yang, David A Clifton  
+Advances in Neural Information Processing Systems (**NeurIPS 2025, Spotlight**)  
 [[pdf](https://arxiv.org/abs/2505.19107)]
 
 
-## AI for Mental Health and Social Computing
+## AI for Mental Health
 
-- **MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation.**<br>
-**Xin Wang**, Ling Feng, Huijun Zhang, Lei Cao, Kaisheng Zeng, Qi Li, Yang Ding, Yi Dai, David A Clifton<br>
-Proceedings of the ACM Web Conference 2025 (**WWW2025, <font color="#d76666">Oral Presentation</font>**)<br>
+*Building AI systems that understand mental health at progressively finer levels of granularity, from representation learning to stress recognition, stress category classification, and stressor identification, across language, image, and behavioral signals.*
+
+- **MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation.**  
+ **Xin Wang**, Ling Feng, Huijun Zhang, Lei Cao, Kaisheng Zeng, Qi Li, Yang Ding, Yi Dai, David A Clifton  
+Proceedings of the ACM Web Conference (**WWW 2025, Oral**)  
 [[pdf](https://arxiv.org/abs/2505.03827)][[code](https://github.com/xin-wang18/MISE)][[data](https://www.kaggle.com/datasets/xinwangcs/stressor-cause-of-mental-health-problem-dataset)]
 
-- **Contrastive Learning of Stress-specific Word Embedding for Social Media based Stress Detection.**<br>
-**Xin Wang**, Huijun Zhang, Lei Cao, Ling Feng, Qi Li, Ningyun Li, Ling Feng.<br>
-Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD2023**)<br>
+- **Contrastive Learning of Stress-specific Word Embedding for Social Media-based Stress Detection.**  
+ **Xin Wang**, Huijun Zhang, Lei Cao, Kaisheng Zeng, Qi Li, Ningyun Li, Ling Feng  
+Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2023**)  
 [[pdf](https://dl.acm.org/doi/pdf/10.1145/3580305.3599795)][[code](https://github.com/xin-wang18/SSE)][[data](https://github.com/xin-wang18/SSE)]
 
-- **A Meta-learning based Stress Category Detection Framework on Social Media.**<br>
-**Xin Wang**, Lei Cao, Huijun Zhang, Ling Feng, Yang Ding, Ningyun Li.<br>
-Proceedings of the ACM Web Conference 2022 (**WWW2022**)<br>
+- **A Meta-learning based Stress Category Detection Framework on Social Media.**  
+ **Xin Wang**, Lei Cao, Huijun Zhang, Ling Feng, Yang Ding, Ningyun Li  
+Proceedings of the ACM Web Conference (**WWW 2022**)  
 [[pdf](https://dl.acm.org/doi/pdf/10.1145/3485447.3512013)][[data](https://github.com/xin-wang18/Categroy-Dataset)]
 
-
-## Multimodal AI
-
-- **Integrating Content-Semantics-World Knowledge to Detect Stress from Videos.**<br>
-Yang Ding, Yi Dai, **Xin Wang\***, Ling Feng\*, Lei Cao, Huijun Zhang.<br>
-Proceedings of the 32nd ACM International Conference on Multimedia (**MM2024**)<br>
+- **Integrating Content-Semantics-World Knowledge to Detect Stress from Videos.**  
+Yang Ding, Yi Dai, **Xin Wang\***, Ling Feng\*, Lei Cao, Huijun Zhang  
+Proceedings of the ACM International Conference on Multimedia (**MM 2024**)  
 [[pdf](https://dl.acm.org/doi/pdf/10.1145/3664647.3680584)]
 
-- **Fine-Grained Question-Level Deception Detection via Graph-Based Learning and Cross-Modal Fusion.**<br>
-Huijun Zhang, Yang Ding, Lei Cao, **Xin Wang**, Ling Feng.<br>
-IEEE Transactions on Information Forensics and Security (**TIFS2022**)<br>
-[[pdf](https://ieeexplore.ieee.org/document/9808161)][[code](https://github.com/zhjsss12/GCFM-pytorch)]
-
-- **Leverage Social Media for Personalized Stress Detection.**<br>
-**Xin Wang**, Huijun Zhang, Lei Cao, Ling Feng.<br>
-Proceedings of the 28th ACM International Conference on Multimedia (**MM2020**)<br>
+- **Leverage Social Media for Personalized Stress Detection.**  
+ **Xin Wang**, Huijun Zhang, Lei Cao, Ling Feng  
+Proceedings of the ACM International Conference on Multimedia (**MM 2020**)  
 [[pdf](https://dl.acm.org/doi/pdf/10.1145/3394171.3413596)]
 
+## AI for Biomedicine
 
-## Biomedical AI and Knowledge Graphs
+*AI methods for biomedical discovery, spanning representation learning, knowledge graph reasoning, and predictive modeling over complex biological and medical data, including drug–target interaction and cold-start settings.*
 
-- **MuRL-DTI: A Multimodal Feature Fusion Reinforcement Learning Approach for Cold Start in Drug-Target Interactions.**<br>
-Yao Liu, **Xin Wang**, Ye Liu, Dandan Dou.<br>
-IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP2025**)<br>
+- **IPM-DTI: An Interaction-Pattern-Driven Multimodal Framework for Drug–Target Interaction Prediction via Knowledge Graphs.**  
+Yao Liu, Yifei Zhou, **Xin Wang**, Lei Zhao  
+Journal of Chemical Information and Modeling (**JCIM 2026**)  
+[[pdf](https://pubs.acs.org/doi/10.1021/acs.jcim.6c00740)]
+
+- **MuRL-DTI: A Multimodal Feature Fusion Reinforcement Learning Approach for Cold Start in Drug–Target Interactions.**  
+Yao Liu, **Xin Wang**, Ye Liu, Dandan Dou  
+IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP 2025**)  
 [[pdf](https://ieeexplore.ieee.org/abstract/document/10888048)]
 
-- **SAGS-DynamicBio: Integrating Semantic-Aware and Graph Structure-Aware Embedding for Dynamic Biological Data with Knowledge Graphs.**<br>
-Yao Liu, Yongfei Zhang, **Xin Wang**.<br>
-European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML PKDD2024**)<br>
+- **SAGS-DynamicBio: Integrating Semantic-Aware and Graph Structure-Aware Embedding for Dynamic Biological Data with Knowledge Graphs.**  
+Yao Liu, Yongfei Zhang, **Xin Wang**  
+European Conference on Machine Learning and Knowledge Discovery in Databases (**ECML PKDD 2024**)  
 [[pdf](https://dl.acm.org/doi/10.1007/978-3-031-70378-2_18)]
 
-- **Heuristic-Driven, Type-Specific Embedding in Parallel Spaces for Enhancing Knowledge Graph Reasoning.**<br>
-Yao Liu, Yongfei Zhang, **Xin Wang**, Shan Yang.<br>
-IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP2024**)<br>
+- **Heuristic-Driven, Type-Specific Embedding in Parallel Spaces for Enhancing Knowledge Graph Reasoning.**  
+Yao Liu, Yongfei Zhang, **Xin Wang**, Shan Yang  
+IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP 2024**)  
 [[pdf](https://ieeexplore.ieee.org/document/10445955)]
 
 
