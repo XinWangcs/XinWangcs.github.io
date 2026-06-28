@@ -74,10 +74,6 @@ IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICA
 Yao Liu, Yongfei Zhang, **Xin Wang**  
 European Conference on Machine Learning and Knowledge Discovery in Databases (**ECML PKDD 2024**) [[pdf](https://dl.acm.org/doi/10.1007/978-3-031-70378-2_18)]
 
-- **Heuristic-Driven, Type-Specific Embedding in Parallel Spaces for Enhancing Knowledge Graph Reasoning.**  
-Yao Liu, Yongfei Zhang, **Xin Wang**, Shan Yang  
-IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP 2024**) [[pdf](https://ieeexplore.ieee.org/document/10445955)]
-
 
 <!--
 - [MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation](https://ora.ox.ac.uk/objects/uuid:b3c2686c-b6c7-4cce-bd7f-3104811d9c12).<br>
