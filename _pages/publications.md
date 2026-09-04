@@ -23,7 +23,7 @@ You can find all my papers on my [Google Scholar](https://scholar.google.com/cit
 
 ## LLM Reasoning and Adaptation
 
-*General methods for improving how large language models reason and adapt, so they learn efficiently, reason reliably, and generalize across tasks and domains.*
+*Methods for improving how large language models reason and adapt, so they learn efficiently, reason reliably, and generalize across tasks and domains.*
 
 - **Mental-R1: Aligning LLM Reasoning for Mental Health Assessment.**  
  **Xin Wang**, Boyan Gao, Yibo Yang, David A Clifton  
@@ -36,7 +36,7 @@ Advances in Neural Information Processing Systems (**NeurIPS 2025, Spotlight**) 
 
 ## AI for Mental Health
 
-*Building AI systems that understand mental health at progressively finer levels of granularity, from representation learning to stress recognition, stress category classification, and stressor identification, across language, image, and behavioral signals.*
+*AI methods for understanding mental health from language, image, and behavioral signals, spanning representation learning, stress detection, fine-grained categorization, and stressor identification.*
 
 - **MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation.**  
  **Xin Wang**, Ling Feng, Huijun Zhang, Lei Cao, Kaisheng Zeng, Qi Li, Yang Ding, Yi Dai, David A Clifton  
@@ -60,7 +60,7 @@ Proceedings of the ACM International Conference on Multimedia (**MM 2020**) [[pd
 
 ## AI for Biomedicine
 
-*AI methods for biomedical discovery, spanning representation learning, knowledge graph reasoning, and predictive modeling over complex biological and medical data, including drug–target interaction and cold-start settings.*
+*AI methods for biomedical discovery, spanning multimodal representation learning, knowledge graph reasoning, and predictive modeling for biological interactions and cold-start settings.*
 
 - **IPM-DTI: An Interaction-Pattern-Driven Multimodal Framework for Drug–Target Interaction Prediction via Knowledge Graphs.**  
 Yao Liu, Yifei Zhou, **Xin Wang**, Lei Zhao  
