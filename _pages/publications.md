@@ -77,39 +77,39 @@ European Conference on Machine Learning and Knowledge Discovery in Databases (**
 
 -->
 
-- **Mental-R1: Aligning LLM Reasoning for Mental Health Assessment.**  
+- Mental-R1: Aligning LLM Reasoning for Mental Health Assessment.  
   **Xin Wang**, Boyan Gao, Yibo Yang, David A. Clifton  
-  *Preprint, arXiv:2606.13176* · [[pdf](http://arxiv.org/abs/2606.13176)]
+  *Preprint 2026, arXiv:2606.13176* · [[pdf](http://arxiv.org/abs/2606.13176)]
 
-- **Optimization-Inspired Few-Shot Adaptation for Large Language Models.**  
+- Optimization-Inspired Few-Shot Adaptation for Large Language Models.  
   Boyan Gao, **Xin Wang**, Yibo Yang, David A. Clifton  
-  *NeurIPS 2025 (Spotlight)* · **CORE A\*** · **CCF A** · [[pdf](https://arxiv.org/abs/2505.19107)]
+  *NeurIPS 2025 (Spotlight)* · [[pdf](https://arxiv.org/abs/2505.19107)]
 
-- **MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation.**  
+- MISE: Meta-knowledge Inheritance for Social Media-Based Stressor Estimation.  
   **Xin Wang**, Ling Feng, Huijun Zhang, Lei Cao, Kaisheng Zeng, Qi Li, Yang Ding, Yi Dai, David A. Clifton  
-  *WWW 2025 (Oral)* · **CORE A\*** · **CCF A** · [[pdf](https://arxiv.org/abs/2505.03827)] · [[code](https://github.com/xin-wang18/MISE)] · [[data](https://www.kaggle.com/datasets/xinwangcs/stressor-cause-of-mental-health-problem-dataset)]
+  *WWW 2025 (Oral)* · [[pdf](https://arxiv.org/abs/2505.03827)] · [[code](https://github.com/xin-wang18/MISE)] · [[data](https://www.kaggle.com/datasets/xinwangcs/stressor-cause-of-mental-health-problem-dataset)]
 
-- **MuRL-DTI: A Multimodal Feature Fusion Reinforcement Learning Approach for Cold Start in Drug–Target Interactions.**  
+- MuRL-DTI: A Multimodal Feature Fusion Reinforcement Learning Approach for Cold Start in Drug–Target Interactions.  
   Yao Liu, **Xin Wang**, Ye Liu, Dandan Dou  
-  *ICASSP 2025* · **CORE B** · **CCF B** · [[pdf](https://ieeexplore.ieee.org/abstract/document/10888048)]
+  *ICASSP 2025* · [[pdf](https://ieeexplore.ieee.org/abstract/document/10888048)]
 
-- **Integrating Content-Semantics-World Knowledge to Detect Stress from Videos.**  
+- Integrating Content-Semantics-World Knowledge to Detect Stress from Videos.  
   Yang Ding, Yi Dai, **Xin Wang\***, Ling Feng\*, Lei Cao, Huijun Zhang  
-  *MM 2024* · **CORE A\*** · **CCF A** · [[pdf](https://dl.acm.org/doi/pdf/10.1145/3664647.3680584)]
+  *MM 2024* · [[pdf](https://dl.acm.org/doi/pdf/10.1145/3664647.3680584)]
 
-- **SAGS-DynamicBio: Integrating Semantic-Aware and Graph Structure-Aware Embedding for Dynamic Biological Data with Knowledge Graphs.**  
+- SAGS-DynamicBio: Integrating Semantic-Aware and Graph Structure-Aware Embedding for Dynamic Biological Data with Knowledge Graphs.  
   Yao Liu, Yongfei Zhang, **Xin Wang**  
-  *ECML PKDD 2024* · **CORE A** · **CCF B** · [[pdf](https://dl.acm.org/doi/10.1007/978-3-031-70378-2_18)]
+  *ECML PKDD 2024* · [[pdf](https://dl.acm.org/doi/10.1007/978-3-031-70378-2_18)]
 
-- **Contrastive Learning of Stress-specific Word Embedding for Social Media-based Stress Detection.**  
+- Contrastive Learning of Stress-specific Word Embedding for Social Media-based Stress Detection.  
   **Xin Wang**, Huijun Zhang, Lei Cao, Kaisheng Zeng, Qi Li, Ningyun Li, Ling Feng  
-  *KDD 2023* · **CORE A\*** · **CCF A** · [[pdf](https://dl.acm.org/doi/pdf/10.1145/3580305.3599795)] · [[code](https://github.com/xin-wang18/SSE)] · [[data](https://github.com/xin-wang18/SSE)]
+  *KDD 2023* · [[pdf](https://dl.acm.org/doi/pdf/10.1145/3580305.3599795)] · [[code](https://github.com/xin-wang18/SSE)] · [[data](https://github.com/xin-wang18/SSE)]
 
-- **A Meta-learning based Stress Category Detection Framework on Social Media.**  
+- A Meta-learning based Stress Category Detection Framework on Social Media.  
   **Xin Wang**, Lei Cao, Huijun Zhang, Ling Feng, Yang Ding, Ningyun Li  
-  *WWW 2022* · **CORE A\*** · **CCF A** · [[pdf](https://dl.acm.org/doi/pdf/10.1145/3485447.3512013)] · [[data](https://github.com/xin-wang18/Categroy-Dataset)]
+  *WWW 2022* · [[pdf](https://dl.acm.org/doi/pdf/10.1145/3485447.3512013)] · [[data](https://github.com/xin-wang18/Categroy-Dataset)]
 
-- **Leverage Social Media for Personalized Stress Detection.**  
+- Leverage Social Media for Personalized Stress Detection.  
   **Xin Wang**, Huijun Zhang, Lei Cao, Ling Feng  
-  *MM 2020* · **CORE A\*** · **CCF A** · [[pdf](https://dl.acm.org/doi/pdf/10.1145/3394171.3413596)]
+  *MM 2020* · [[pdf](https://dl.acm.org/doi/pdf/10.1145/3394171.3413596)]
 
