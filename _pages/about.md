@@ -12,15 +12,14 @@ I am Xin Wang, a postdoctoral researcher at the [University of Oxford](https://w
 My previous research interest lies in Data Mining and Natural Language Processing.
 
 My recent interest include: 
-- LLMs and AI agents
-- AI for Health and Biomedicine
-- Multimodal AI
+- LLM Post-training, Adaptation, and Reasoning
+- Multimodal Learning
+- Applications in Health and Biomedicine
 
 
 News
 ---
 - [2025-09] One paper is accepted by NeurIPS2025 as Spotlight.
-- [2025-05] Stressor dataset is now released on [Kaggle](https://www.kaggle.com/datasets/xinwangcs/stressor-cause-of-mental-health-problem-dataset) and [Huggingface](https://huggingface.co/datasets/XinWangcs/Stressor).
 - [2025-01] One first author paper is accepted by WWW2025 as Oral. One paper is accepted by IEEE TMM.
 - [2024-12] One paper is accepted by ICASSP2025.
 - [2024-11] One paper is accepted by IEEE TAC.
