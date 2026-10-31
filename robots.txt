@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://xinwangcs.github.io/sitemap.xml
